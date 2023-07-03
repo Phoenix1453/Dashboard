@@ -704,7 +704,7 @@ main .recent-transactions .card-details .card{
 
 /* ****************** MEDIA QUERIES FOR MOBILE PHONES ********************* */
 
-@media screen and (max-width: 1000px){ /* Pc de görmek için ben 1000 yapıyorum genelde 600 */
+@media screen and (max-width: 1000px){ /* Pc de görmek için ben 1000 yapıyorum normalde 600 */
     nav .profile-area{
         gap: 2.6rem;
     }
